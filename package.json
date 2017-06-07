@@ -19,4 +19,20 @@
     "semicolon": false
   },
   "dependencies": {}
+  "name": "dbon",
+  "description": ":minidisc: Simple Embeddable Persistence JSON Storage",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oknoorap/dbon.git"
+  },
+  "keywords": [
+    "database",
+    "json"
+  ],
+  "author": "oknoorap",
+  "bugs": {
+    "url": "https://github.com/oknoorap/dbon/issues"
+  },
+  "homepage": "https://github.com/oknoorap/dbon#readme"
 }
