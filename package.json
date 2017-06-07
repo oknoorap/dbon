@@ -18,7 +18,9 @@
     "space": true,
     "semicolon": false
   },
-  "dependencies": {}
+  "dependencies": {
+    "json-realtime": "^1.3.3"
+  },
   "name": "dbon",
   "description": ":minidisc: Simple Embeddable Persistence JSON Storage",
   "main": "index.js",
